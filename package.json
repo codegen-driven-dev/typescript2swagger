@@ -8,12 +8,17 @@
     "test": ""
   },
   "author": "Samuel Marks <samuelmarks@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "github.com/codegen-driven-dev/typescript2swagger"
+  },
   "license": "",
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
     "supertest": "^1.2.0",
-    "typescript": "^1.8.10"
+    "typescript": "^1.8.10",
+    "yargs": "^4.6.0"
   }
 }

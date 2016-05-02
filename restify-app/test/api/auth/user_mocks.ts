@@ -1,4 +1,4 @@
-import {IUserBase} from '../../../api/user/models.d';
+import {IUserBase} from './models.d';
 
 export const user_mocks: { successes: Array<IUserBase>, failures: Array<{}> } = {
     "failures": [

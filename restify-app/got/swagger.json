@@ -1,0 +1,20 @@
+[
+    {
+        "name": "AuthTestSDK",
+        "documentation": "",
+        "type": "typeof AuthTestSDK",
+        "constructors": [
+            {
+                "parameters": [
+                    {
+                        "name": "app",
+                        "documentation": "",
+                        "type": "any"
+                    }
+                ],
+                "returnType": "AuthTestSDK",
+                "documentation": ""
+            }
+        ]
+    }
+]
