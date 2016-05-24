@@ -14,11 +14,11 @@
   },
   "license": "",
   "dependencies": {
-    "async": "^2.0.0-rc.3",
+    "async": "^2.0.0-rc.5",
     "chai": "^3.5.0",
-    "mocha": "^2.4.5",
+    "mocha": "^2.5.1",
     "supertest": "^1.2.0",
     "typescript": "^1.8.10",
-    "yargs": "^4.6.0"
+    "yargs": "^4.7.1"
   }
 }
